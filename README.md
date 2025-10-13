@@ -2,7 +2,7 @@
 
 ## 👋 Contact Here
 
-### Telegram: https://t.me/novustechllc
+### Telegram: https://t.me/novustch
 ### Whatsapp: https://wa.me/14105015750
 
 
