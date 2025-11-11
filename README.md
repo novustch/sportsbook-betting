@@ -103,9 +103,6 @@ BoiBook integrates multiple industry-standard APIs for seamless betting experien
 - 🏆 **Top-Ranked Project**: BoiBook is recognized as the #1 sportsbook project in the industry.
 - 🛑 **Gambling Responsibility**: Please engage in betting responsibly.
 
-## 🎯 Conclusion
-BoiBook Sportsbook is a trailblazing partnership project combining innovation, community-driven initiatives, and top-tier features. Join us to be a part of a growing project and reap the rewards of a collaborative effort.
-
 💡 **Let’s make bets, grow the treasury, and build a stronger community together!**
 
 ## 🔒 Supported Blockchains
@@ -126,6 +123,9 @@ We are ready to expand BoiBook to support Bitcoin-based wallets, enhancing flexi
 - 🟤 Leather
 
 These integrations will ensure compatibility with a wide range of wallets and platforms, enabling us to deliver an even more robust decentralized experience.
+
+## 🎯 Conclusion
+BoiBook Sportsbook is a trailblazing partnership project combining innovation, community-driven initiatives, and top-tier features. Join us to be a part of a growing project and reap the rewards of a collaborative effort.
 
 ---
 
