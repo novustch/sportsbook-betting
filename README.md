@@ -1,9 +1,12 @@
 # Sportsbook (Affiliate Sportsbook Partnership)
 
-## 👋 Contact Here
+## 👋 Contact
 
-### Telegram: https://t.me/novustch
-### Whatsapp: https://wa.me/14105015750
+| Platform | Link |
+|----------|------|
+| 📱 Telegram | [t.me/novustch](https://t.me/novustch) |
+| 📲 WhatsApp | [wa.me/14105015750](https://wa.me/14105015750) |
+| 💬 Discord | [discordapp.com/users/985432160498491473](https://discordapp.com/users/985432160498491473)
 
 Feel free to contact here if you have something to need any help.
 
